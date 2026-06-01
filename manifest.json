@@ -1,0 +1,26 @@
+{
+    "name": "Use-By Hub — Son Kullanma Tarihi Takibi",
+    "short_name": "Use-By Hub",
+    "description": "Ürünlerinizin son kullanma tarihlerini kolayca takip edin. Barkod tarayıcı, renk kodlu uyarılar ve akıllı bildirimler.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#f8fafc",
+    "theme_color": "#4338ca",
+    "orientation": "portrait-primary",
+    "categories": ["utilities", "food", "health"],
+    "lang": "tr",
+    "icons": [
+        {
+            "src": "icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
